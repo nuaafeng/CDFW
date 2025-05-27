@@ -1,0 +1,11 @@
+numpy
+pandas
+hyperopt
+matplotlib
+scikit_learn
+scipy
+mlflow
+tqdm
+lingam
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch
